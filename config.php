@@ -20,10 +20,5 @@ $users = [
         'password' => '',
         'name' => 'Ricko'
     ],
-    [
-        'email' => 'jane-doe@mail.ru',
-        'password' => '',
-        'name' => 'Jane Doe'
-    ]
 ];
 ?>
