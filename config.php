@@ -7,10 +7,10 @@ for ($i = 1; $i <= 99; $i++) {
     $subdomains[] = "dev-$i.bersiber.xyz"; //dev-11.bersiber.xyz ganti ke dev- lain
 }
 
-// Dummy email and password
+// email and password
 $credentials = [
     "email" => "ricko-ricko@mail.ru",
-    "password" => "-"
+    "password" => ""
 ];
 
 // Database simulation (array)
