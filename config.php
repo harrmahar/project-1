@@ -9,16 +9,16 @@ for ($i = 1; $i <= 99; $i++) {
 
 // email and password
 $credentials = [
-    "email" => "ricko-ricko@mail.ru",
+    "email" => "kira--kira@list.ru",
     "password" => ""
 ];
 
 // Database simulation (array)
 $users = [
     [
-        'email' => 'ricko-ricko@mail.ru',
+        'email' => 'kira--kira@list.ru',
         'password' => '',
-        'name' => 'Ricko'
+        'name' => 'Kira'
     ],
 ];
 ?>
