@@ -4,7 +4,7 @@
 // List of subdomains
 $subdomains = [];
 for ($i = 1; $i <= 99; $i++) {
-    $subdomains[] = "dev-$i.bersiber.xyz"; //dev-11.bersiber.xyz ganti ke dev- lain
+    $subdomains[] = "dev-$i.bersiber.space"; //dev-11.bersiber.space ganti ke dev- lain
 }
 
 // email and password
